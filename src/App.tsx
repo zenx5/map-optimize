@@ -6,7 +6,7 @@ import Thirdtrategy from "./sections/Thirdtrategy";
 
 export default function App() {
 
-  return <main className="w-screen h-screen divide-y-8 flex flex-col divide-blue-500">
+  return <main className="w-screen h-screen divide-y-8 flex flex-col divide-blue-500 bg-blue-400">
     <Home />
     <FirstStrategy />
     <SecondtStrategy />

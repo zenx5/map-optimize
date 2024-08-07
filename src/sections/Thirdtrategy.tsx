@@ -14,7 +14,7 @@ export default function Thirdtrategy() {
     },[])
 
 
-    return <section className="w-screen h-screen bg-blue-400">
+    return <section className="w-screen h-screen bg-blue-400 pb-20">
         <Title
             title="Vamos por partes"
             description="La tercera estrategia es hacer un fetch de los datos y solo mostrar aquellos que vamos necesitando" />
